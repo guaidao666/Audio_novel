@@ -1,0 +1,3 @@
+APP_ID = '你的 App ID'
+API_KEY = '你的 Api Key'
+SECRET_KEY = '你的 Secret Key'
